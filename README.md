@@ -1,2 +1,2 @@
 # PC-08
-Pensamiento computacional 
+Pensamiento Computacional Seccion 08
